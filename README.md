@@ -5,3 +5,24 @@ En este tercer sprint, se utiliza el framework React para la creación de un por
 
 ## Página Desplegada
 Mediante el siguiente link: https://sauk1346.github.io/-TI3V31-Evaluacion03/
+
+## Instalación y Ejecución Local
+
+1. Clonar repositorio
+
+```sh
+git clone https://github.com/sauk1346/-TI3V31-Evaluacion03.git
+cd -TI3V31-Evaluacion03
+```
+
+2. Instalar dependencias
+
+```sh
+npm install
+```
+
+3. Ejecutar en modo desarrollo
+
+```sh
+npm run dev
+```
